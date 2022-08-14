@@ -4,6 +4,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=Picasso)](https://solved.ac/Picasso)
 
+[![bambbam's GitHub stats](https://github-readme-stats.vercel.app/api?username=bambbam)](https://github.com/bambbam/github-readme-stats)
+
 
 <!--
 **bambbam/bambbam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
